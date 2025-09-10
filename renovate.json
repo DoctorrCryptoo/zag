@@ -23,6 +23,9 @@
         "patch",
         "pin",
         "digest"
+
+
+        ""
       ],
       "automerge": true,
       "groupName": "all non-major dependencies",
